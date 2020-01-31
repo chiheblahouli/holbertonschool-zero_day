@@ -1,2 +1,2 @@
 **starting to learning vagrant**
-helloxsxsxcx
+hello
